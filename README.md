@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjali Dubey!
 
-<!--
-**Anjalidubey2/Anjalidubey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Second-year BTech student specializing in **CSE with AI** at GL Bajaj Institute of Technology and Management.
+- 💻 Passionate about **Full-Stack Development**.
+- 🏆 Hackathon enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C++, Python
+- **Front-end:** HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- mastering **DSA in C++**.
+
+## 📫 How to Reach Me
+- **LinkedIn:** [linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/anjali-dubey-5129722ab/)
+- **Email:** [katiyar.saksham2004@gamil.com](mailto:anjali9t4dubey@gmail.com)
