@@ -13,5 +13,5 @@
 - mastering **DSA in C++**.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/anjali-dubey-5129722ab/)
-- **Email:** [katiyar.saksham2004@gamil.com](mailto:anjali9t4dubey@gmail.com)
+- **LinkedIn:** [linkedin.com/in/anjalidubey](https://www.linkedin.com/in/anjali-dubey-5129722ab/)
+- **Email:** [anjali9t4dubey@gmail.com](mailto:anjali9t4dubey@gmail.com)
